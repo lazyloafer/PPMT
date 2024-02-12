@@ -1,3 +1,3 @@
 # PPMT
 
-Unzip Data.zip and run src/train-reasoning.py
+Unzip Data.zip and run src/train_reasoning.py
