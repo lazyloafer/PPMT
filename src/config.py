@@ -60,7 +60,7 @@ def train_args():
                         help="Weight decay if we apply some.")
     parser.add_argument("--output_dir", default="./logs", type=str,
                         help="The output directory where the model checkpoints will be written.")
-    parser.add_argument("--train_batch_size", default=4,
+    parser.add_argument("--train_batch_size", default=128,
                         type=int, help="Total batch size for training.")
     parser.add_argument("--num_q_per_gpu", default=1)
     parser.add_argument("--learning_rate", default=15e-5,
