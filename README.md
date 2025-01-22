@@ -1,6 +1,6 @@
 # PPMT
 
-The demo code of Paper "Progressive Prefix-Memory Tuning for Complex Logical Query Answering on Knowledge Graphs" for AAAI 2025 anonymous review.
+The demo code of Paper "Progressive Prefix-Memory Tuning for Complex Logical Query Answering on Knowledge Graphs" for IJCAI 2025 anonymous review.
 
 ## Setting up
 1. To set up the environment, please install the packages in the `requirements.txt`.
